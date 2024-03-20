@@ -69,6 +69,8 @@
 .functions{
     background-color: burlywood;
     width:30%;  /*MOMENTANEO*/
+    display: flex;
+    flex-direction: column;
 }
 
 .seven-nine{
