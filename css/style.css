@@ -68,7 +68,12 @@
     flex-direction: row;
 }
 
-.seven-nine{
+.one-three{
+    display: flex;
+    flex-direction: row;
+}
+
+.zero-equal{
     display: flex;
     flex-direction: row;
 }
