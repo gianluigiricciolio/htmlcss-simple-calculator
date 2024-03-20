@@ -10,9 +10,15 @@
     justify-content: center;
 }
 
+.justify-evenly{
+    justify-content:space-evenly;
+}
+
 .align-center{
     align-items: center;
 }
+
+
 
 
 
@@ -53,9 +59,16 @@
 
 .numbers{
     background-color: beige;
+    width:70%; /*MOMENTANEO*/
     display:flex;
     flex-direction: column;
+    
 
+}
+
+.functions{
+    background-color: burlywood;
+    width:30%;  /*MOMENTANEO*/
 }
 
 .seven-nine{
