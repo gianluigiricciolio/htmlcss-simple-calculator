@@ -1,8 +1,20 @@
+/*CLASSI UTILITY*/
+
 *{
     margin:0;
     padding:0;
     box-sizing: border-box;
 }
+
+.justify-center{
+    justify-content: center;
+}
+
+.align-center{
+    align-items: center;
+}
+
+
 
 .container{
     background-color: lightgray;
@@ -12,12 +24,51 @@
 }
 
 .calculator{
+    background-color: brown;
+    width:400px;
+    height:600px;
 }
 
-.justify-center{
-    justify-content: center;
+.logo{
+    background-color: white;
+    width:100%;
+    height:100px;
 }
 
-.align-center{
-    align-items: center;
+
+
+.display{
+    background-color: black;
+    color:green;
+    width:100%;
+    height:100px;
+}
+
+.buttons{
+    display:flex;
+    flex-direction: row;
+    height:400px;
+    background-color: bisque;
+}
+
+.numbers{
+    background-color: beige;
+    display:flex;
+    flex-direction: column;
+
+}
+
+.seven-nine{
+    display: flex;
+    flex-direction: row;
+}
+
+.four-six{
+    display: flex;
+    flex-direction: row;
+}
+
+.seven-nine{
+    display: flex;
+    flex-direction: row;
 }
