@@ -77,14 +77,13 @@
     font-size: 22px;
     font-weight: bold;
     font-family: Michroma, sans-serif;
+    padding:8px;
 }
 
 .buttons button{
     font-size: 22px;
     font-weight: bold;
     font-family: Michroma, sans-serif;
-    border-bottom:3px solid darkgray;
-    border-left:3px solid darkgray;
 }
 
 .numbers{
