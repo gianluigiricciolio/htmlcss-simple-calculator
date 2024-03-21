@@ -79,6 +79,14 @@
     font-family: Michroma, sans-serif;
 }
 
+.buttons button{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Michroma, sans-serif;
+    border-bottom:3px solid darkgray;
+    border-left:3px solid darkgray;
+}
+
 .numbers{
     width: 80%;
     display:flex;
@@ -105,8 +113,7 @@
     width:65px;
     height:55px;
     background-color: bisque;
-    border-bottom:3px solid darkgray;
-    border-left:3px solid darkgray;
+
 }
 
 .double-button{
@@ -116,8 +123,6 @@
     width:140px;
     height:55px;
     background-color: bisque;
-    border-bottom:3px solid darkgray;
-    border-left:3px solid darkgray;
 }
 
 .small-button{
@@ -127,6 +132,4 @@
     width:45px;
     height:40px;
     background-color: skyblue;
-    border-bottom:3px solid darkgray;
-    border-left:3px solid darkgray;
 }
